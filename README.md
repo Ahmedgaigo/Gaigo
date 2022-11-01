@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hackmir
+- 👋 Hi, I’m @Ahmed Mustapha
 - 👀 I’m interested in python, machine learning, software development
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ML and AI
-- 📫 How to reach me ...ahmetgaigo68@gmail.com
+- 📫 How to reach me ...am9046@princeton.edu
 
 <!---
 hackmir/hackmir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
